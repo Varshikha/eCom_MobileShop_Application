@@ -1,0 +1,110 @@
+{
+    "products": [
+        {
+            "id": "OLJCESPC7Z",
+            "name": "Nokia Cricket",
+            "description": "Enjoy the clean Android experience, with features you love.",
+            "picture": "/static/img/products/typewriter.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 67,
+                "nanos": 990000000
+            },
+            "categories": ["vintage"]
+        },
+        {
+            "id": "66VCHSJNUP",
+            "name": "OPPO A15",
+            "description": "Find your favorite smartphone from the latest mobile phone list by OPPO",
+            "picture": "/static/img/products/camera-lens.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 12,
+                "nanos": 490000000
+            },
+            "categories": ["photography", "vintage"]
+        },
+        {
+            "id": "1YMWWN1N4O",
+            "name": "SAMSUNG GALAXY",
+            "description": "View the best Feature phones by Samsung with all the latest features and innovations available for basic mobile needs",
+            "picture": "/static/img/products/barista-kit.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 124
+            },
+            "categories": ["cookware"]
+        },
+        {
+            "id": "L9ECAV7KIM",
+            "name": "Apple iPhone 12 Pro Max",
+            "description": "iPhone 12 Pro delivers 4G LTE speeds up to 2 Gbps, so you can download large files, upload photos and stream high-quality video faster than ever.",
+            "picture": "/static/img/products/terrarium.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 36,
+                "nanos": 450000000
+            },
+            "categories": ["gardening"]
+        },
+        {
+            "id": "2ZYFJ3GM2N",
+            "name": "Vivo X60 Pro+",
+            "description": "The Vivo X60 Pro+ is powered by octa-core it comes with 8GB of RAM. .",
+            "picture": "/static/img/products/film-camera.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 2245
+            },
+            "categories": ["photography", "vintage"]
+        },
+        {
+            "id": "0PUK6V6EV0",
+            "name": "OnePlus 7T",
+            "description": "Dash Charging. Since very beginning Dash Charging has been one of the key features of the OnePlus phones",
+            "picture": "/static/img/products/record-player.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 65,
+                "nanos": 500000000
+            },
+            "categories": ["music", "vintage"]
+        },
+        {
+            "id": "LS4PSXUNUM",
+            "name": "Redmi Note 9 Pro Max",
+            "description": "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories.",
+            "picture": "/static/img/products/camp-mug.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 330000000
+            },
+            "categories": ["cookware"]
+        },
+        {
+            "id": "9SIQT8TOJO",
+            "name": "Motorola E7 Plus ",
+            "description": "Motorola's latest mobile launch is the Edge S. The smartphone was launched in 26th January 2021.",
+            "picture": "/static/img/products/city-bike.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 789,
+                "nanos": 500000000
+            },
+            "categories": ["cycling"]
+        },
+        {
+            "id": "6E92ZMYYFZ",
+            "name": "Panasonic Eluga I8",
+            "description": "Android v9.0 Pie operating system with 2GHz Mediatek octa core processor, 4000mAH lithium-ion battery",
+            "picture": "/static/img/products/air-plant.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 12,
+                "nanos": 300000000
+            },
+            "categories": ["gardening"]
+        }
+    ]
+}
